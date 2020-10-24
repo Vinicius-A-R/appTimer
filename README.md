@@ -1,6 +1,6 @@
 # TIMER MADE WITH REACT NATIVE
 
-- Timer app with React Native.
+- Timer app made with React Native.
 
 <br/>
 
